@@ -4,4 +4,4 @@
 * [Guillaume Genthial](https://guillaumegenthial.github.io/)
 * [Constanza Fierro](https://cfierro94.github.io/)
 * [Peter Bloem](http://www.peterbloem.nl/blog/)
-** [Transformer](http://www.peterbloem.nl/blog/transformers)
+  - [Transformer](http://www.peterbloem.nl/blog/transformers)
