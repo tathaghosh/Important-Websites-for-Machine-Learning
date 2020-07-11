@@ -6,3 +6,4 @@
   - [Summary: BERT](https://cfierro94.github.io/nlp-summaries/bert)
 * [Peter Bloem](http://www.peterbloem.nl/blog/)
   - [Transformers from scratch](http://www.peterbloem.nl/blog/transformers)
+* [Peter Roelants](https://peterroelants.github.io/)
