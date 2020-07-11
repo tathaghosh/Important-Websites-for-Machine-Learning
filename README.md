@@ -10,4 +10,5 @@
 * [Venelin Valkov](https://www.curiousily.com/posts)
 * [Chris McCormick](https://mccormickml.com/)
   - [Tutorials](https://mccormickml.com/tutorials/)
+* [Nipun Batra](https://nipunbatra.github.io/)
 
