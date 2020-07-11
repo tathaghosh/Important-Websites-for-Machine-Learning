@@ -7,3 +7,7 @@
 * [Peter Bloem](http://www.peterbloem.nl/blog/)
   - [Transformers from scratch](http://www.peterbloem.nl/blog/transformers)
 * [Peter Roelants](https://peterroelants.github.io/)
+* [Venelin Valkov](https://www.curiousily.com/posts)
+* [Chris McCormick](https://mccormickml.com/)
+  - [Tutorials](https://mccormickml.com/tutorials/)
+
