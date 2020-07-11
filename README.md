@@ -3,5 +3,6 @@
 * [Raúl Gómez](https://gombru.github.io/about/)
 * [Guillaume Genthial](https://guillaumegenthial.github.io/)
 * [Constanza Fierro](https://cfierro94.github.io/)
+  - [Summary: BERT](https://cfierro94.github.io/nlp-summaries/bert)
 * [Peter Bloem](http://www.peterbloem.nl/blog/)
-  - [Transformer](http://www.peterbloem.nl/blog/transformers)
+  - [Transformers from scratch](http://www.peterbloem.nl/blog/transformers)
