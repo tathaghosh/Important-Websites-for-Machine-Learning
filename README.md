@@ -11,6 +11,6 @@
 * [Chris McCormick](https://mccormickml.com/)
   - [Tutorials](https://mccormickml.com/tutorials/)
 * [Nipun Batra](https://nipunbatra.github.io/)
-* [Andreas Geiger](https://autonomousvision.github.io/)
+* [Autonomous Vision Blog](https://autonomousvision.github.io/)
 * [Humboldt-University of Berlin](https://humboldt-wi.github.io/blog/research/)
 
