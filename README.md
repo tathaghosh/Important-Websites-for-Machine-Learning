@@ -12,6 +12,7 @@
   - [Tutorials](https://mccormickml.com/tutorials/)
 * [Nipun Batra](https://nipunbatra.github.io/)
 * [Jay Alammar](http://jalammar.github.io/)
+* [Ehud Reiter](https://ehudreiter.com/)
 * [Autonomous Vision Blog](https://autonomousvision.github.io/)
 * [Humboldt-University of Berlin](https://humboldt-wi.github.io/blog/research/)
 
