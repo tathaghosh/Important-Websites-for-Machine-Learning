@@ -1,4 +1,5 @@
 # Important Blogs and Youtube Channels for Machine-Learning:
+
 * [Amit Chaudhary(Amitness)](https://amitness.com/)
 * [Robert Tjarko Lange](https://roberttlange.github.io/)
 * [Letiția Pârcălăbescu](https://www.youtube.com/channel/UCobqgqE4i5Kf7wrxRxhToQA)
