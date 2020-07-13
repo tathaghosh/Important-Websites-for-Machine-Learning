@@ -1,4 +1,5 @@
 # Import blogs for Machine-Learning:
+* [Amit Chaudhary](https://amitness.com/)
 * [Sabrina J. Mielke](https://sjmielke.com/blog.htm)
 * [Raúl Gómez](https://gombru.github.io/about/)
 * [Guillaume Genthial](https://guillaumegenthial.github.io/)
