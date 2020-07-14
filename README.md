@@ -1,8 +1,9 @@
 # Important Blogs and Youtube Channels for Machine-Learning:
 
+# Blogs
 * [Amit Chaudhary(Amitness)](https://amitness.com/)
 * [Robert Tjarko Lange](https://roberttlange.github.io/)
-* [Letiția Pârcălăbescu](https://www.youtube.com/channel/UCobqgqE4i5Kf7wrxRxhToQA)
+* [Francis Bach](https://francisbach.com/)
 * [Sabrina J. Mielke](https://sjmielke.com/blog.htm)
 * [Raúl Gómez](https://gombru.github.io/about/)
 * [Guillaume Genthial](https://guillaumegenthial.github.io/)
@@ -19,4 +20,7 @@
 * [Ehud Reiter](https://ehudreiter.com/)
 * [Autonomous Vision Blog](https://autonomousvision.github.io/)
 * [Humboldt-University of Berlin](https://humboldt-wi.github.io/blog/research/)
+
+# YouTube
+* [Letiția Pârcălăbescu](https://www.youtube.com/channel/UCobqgqE4i5Kf7wrxRxhToQA)
 
