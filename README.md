@@ -23,4 +23,7 @@
 
 # YouTube
 * [Letiția Pârcălăbescu](https://www.youtube.com/channel/UCobqgqE4i5Kf7wrxRxhToQA)
+* [Alfredo Canziani](https://www.youtube.com/user/Atcold/videos)
+* [Matthias Nießner](https://www.youtube.com/c/MatthiasNiessner/videos)
+* [Andreas Mueller](https://www.youtube.com/c/AndreasMueller/videos)
 
