@@ -18,6 +18,8 @@
 * [Nipun Batra](https://nipunbatra.github.io/)
 * [Jay Alammar](http://jalammar.github.io/)
 * [Ehud Reiter](https://ehudreiter.com/)
+* [Yasoob Khalid(Python)](https://yasoob.me/)
+  - [Understanding and Decoding a JPEG Image using Python](https://yasoob.me/posts/understanding-and-writing-jpeg-decoder-in-python/)
 * [Autonomous Vision Blog](https://autonomousvision.github.io/)
 * [Humboldt-University of Berlin](https://humboldt-wi.github.io/blog/research/)
 
