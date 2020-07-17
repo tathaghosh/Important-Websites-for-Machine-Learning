@@ -1,6 +1,7 @@
 # Important Blogs and Youtube Channels for Machine-Learning:
 
 # Blogs
+* [Pratik Bhavsar(Pratik's Pakodas)](https://pakodas.substack.com/)
 * [Amit Chaudhary(Amitness)](https://amitness.com/)
 * [Robert Tjarko Lange](https://roberttlange.github.io/)
 * [Francis Bach](https://francisbach.com/)
