@@ -47,6 +47,7 @@
 * [Hvass Laboratories](https://www.youtube.com/user/hvasslabs/videos)
 * [DeepMind](https://www.youtube.com/c/DeepMind/videos)
 * [Sung Kim](https://www.youtube.com/user/hunkims/videos)
+* [Dorien Herremans](https://www.youtube.com/c/DorienHerremans/videos?view=0&sort=dd&shelf_id=0)
 * [Micheleen Harris(rheartpython)](https://www.youtube.com/channel/UCitHS4jgHtSda8bh4MyQmvg/videos)
 * [Aurélien Géron](https://www.youtube.com/channel/UCCvGd1WBMpFQ_vtC89VF2qA/videos)
 * [Daniel Gordon](https://www.youtube.com/channel/UCKRT3A4p4FQuvQKh-VJk1_A/videos)
