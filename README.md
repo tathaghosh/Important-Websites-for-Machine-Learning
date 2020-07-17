@@ -1,6 +1,7 @@
 # Important Blogs and Youtube Channels for Machine-Learning:
 
 # Blogs
+* [dair.ai](https://dair.ai/posts/)
 * [Pratik Bhavsar(Pratik's Pakodas)](https://pakodas.substack.com/)
   - [A Data Scientist Without A PhD](https://pakodas.substack.com/p/a-data-scientist-without-a-phd)
 * [Amit Chaudhary(Amitness)](https://amitness.com/)
@@ -32,6 +33,7 @@
 * [Andreas Mueller](https://www.youtube.com/c/AndreasMueller/videos)
 * [Valerio Velardo - The Sound of AI](https://www.youtube.com/channel/UCZPFjMe1uRSirmSpznqvJfQ/videos)
 * [Abhishek Thakur](https://www.youtube.com/user/abhisheksvnit/videos)
+* [Elvis Saravia](https://www.youtube.com/channel/UCyna_OxOWL7IEuOwb7WhmxQ/videos)
 * [Aladdin Persson](https://www.youtube.com/c/AladdinPersson/videos)
 * [Venelin Valkov](https://www.youtube.com/user/VulkovVenelin/videos)
 * [Chris McCormick](https://www.youtube.com/channel/UCoRX98PLOsaN8PtekB9kWrw/videos)
