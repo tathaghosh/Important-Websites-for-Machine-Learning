@@ -37,6 +37,7 @@
 * [Yannic Kilcher](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew/videos)
 * [Henry AI Labs](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw/videos)
 * [Elvis Saravia](https://www.youtube.com/channel/UCyna_OxOWL7IEuOwb7WhmxQ/videos)
+* [ Jeff Heaton](https://www.youtube.com/user/HeatonResearch/videos)
 * [Aladdin Persson](https://www.youtube.com/c/AladdinPersson/videos)
 * [Venelin Valkov](https://www.youtube.com/user/VulkovVenelin/videos)
 * [Chris McCormick](https://www.youtube.com/channel/UCoRX98PLOsaN8PtekB9kWrw/videos)
