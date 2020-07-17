@@ -43,7 +43,6 @@
 * [Weights & Biases](https://www.youtube.com/c/WeightsBiases/videos)
 * [CodeEmporium](https://www.youtube.com/c/CodeEmporium/videos)
 * [HuggingFace](https://www.youtube.com/channel/UCHlNU7kIZhRgSbhHvFoy72w/videos)
-
 * [DeepMind](https://www.youtube.com/c/DeepMind/videos)
 * [Sung Kim](https://www.youtube.com/user/hunkims/videos)
 * [Micheleen Harris(rheartpython)](https://www.youtube.com/channel/UCitHS4jgHtSda8bh4MyQmvg/videos)
