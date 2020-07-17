@@ -2,6 +2,7 @@
 
 # Blogs
 * [Pratik Bhavsar(Pratik's Pakodas)](https://pakodas.substack.com/)
+  - [A Data Scientist Without A PhD](https://pakodas.substack.com/p/a-data-scientist-without-a-phd)
 * [Amit Chaudhary(Amitness)](https://amitness.com/)
 * [Robert Tjarko Lange](https://roberttlange.github.io/)
 * [Francis Bach](https://francisbach.com/)
