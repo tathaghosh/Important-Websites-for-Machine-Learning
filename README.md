@@ -33,4 +33,10 @@
 * [Valerio Velardo - The Sound of AI](https://www.youtube.com/channel/UCZPFjMe1uRSirmSpznqvJfQ/videos)
 * [Abhishek Thakur](https://www.youtube.com/user/abhisheksvnit/videos)
 * [Aladdin Persson](https://www.youtube.com/c/AladdinPersson/videos)
-
+* [Venelin Valkov](https://www.youtube.com/user/VulkovVenelin/videos)
+* [Chris McCormick](https://www.youtube.com/channel/UCoRX98PLOsaN8PtekB9kWrw/videos)
+* [Weights & Biases](https://www.youtube.com/c/WeightsBiases/videos)
+* [CodeEmporium](https://www.youtube.com/c/CodeEmporium/videos)
+* [DeepMind](https://www.youtube.com/c/DeepMind/videos)
+* [Pascal Poupart](https://www.youtube.com/channel/UC7ZVvEo7-B7lA6LY2MVX72A/videos)
+* [Data Science Courses (Ali Ghodsi-University of Waterloo)](https://www.youtube.com/c/DataScienceCoursesUW/videos)
