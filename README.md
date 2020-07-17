@@ -1,4 +1,4 @@
-# Important Blogs and Youtube Channels for Machine-Learning:
+# Important Blogs and Youtube Channels for Machine Learning:
 
 # Blogs
 * [Pratik Bhavsar(Pratik's Pakodas)](https://pakodas.substack.com/)
