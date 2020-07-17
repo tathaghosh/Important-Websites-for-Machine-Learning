@@ -1,8 +1,6 @@
 # Important Blogs and Youtube Channels for Machine-Learning:
 
 # Blogs
-* [dair.ai](https://dair.ai/posts/)
-* [Distill](https://distill.pub/)
 * [Pratik Bhavsar(Pratik's Pakodas)](https://pakodas.substack.com/)
   - [A Data Scientist Without A PhD](https://pakodas.substack.com/p/a-data-scientist-without-a-phd)
 * [Amit Chaudhary(Amitness)](https://amitness.com/)
@@ -24,6 +22,8 @@
 * [Ehud Reiter](https://ehudreiter.com/)
 * [Yasoob Khalid(Python)](https://yasoob.me/)
   - [Understanding and Decoding a JPEG Image using Python](https://yasoob.me/posts/understanding-and-writing-jpeg-decoder-in-python/)
+* [Distill](https://distill.pub/)
+* [dair.ai](https://dair.ai/posts/)
 * [Autonomous Vision Blog](https://autonomousvision.github.io/)
 * [Humboldt-University of Berlin](https://humboldt-wi.github.io/blog/research/)
 
