@@ -6,6 +6,7 @@
 * [Amit Chaudhary(Amitness)](https://amitness.com/)
 * [Robert Tjarko Lange](https://roberttlange.github.io/)
 * [Francis Bach](https://francisbach.com/)
+* [Chris Olah](https://colah.github.io/)
 * [Sabrina J. Mielke](https://sjmielke.com/blog.htm)
 * [Raúl Gómez](https://gombru.github.io/about/)
 * [Guillaume Genthial](https://guillaumegenthial.github.io/)
