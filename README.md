@@ -31,4 +31,5 @@
 * [Matthias Nießner](https://www.youtube.com/c/MatthiasNiessner/videos)
 * [Andreas Mueller](https://www.youtube.com/c/AndreasMueller/videos)
 * [Valerio Velardo - The Sound of AI](https://www.youtube.com/channel/UCZPFjMe1uRSirmSpznqvJfQ/videos)
+* [Abhishek Thakur](https://www.youtube.com/user/abhisheksvnit/videos)
 
