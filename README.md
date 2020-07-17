@@ -39,6 +39,7 @@
 * [CodeEmporium](https://www.youtube.com/c/CodeEmporium/videos)
 * [DeepMind](https://www.youtube.com/c/DeepMind/videos)
 * [Sung Kim](https://www.youtube.com/user/hunkims/videos)
+* [Micheleen Harris(rheartpython)](https://www.youtube.com/channel/UCitHS4jgHtSda8bh4MyQmvg/videos)
 * [Aurélien Géron](https://www.youtube.com/channel/UCCvGd1WBMpFQ_vtC89VF2qA/videos)
 * [Daniel Gordon](https://www.youtube.com/channel/UCKRT3A4p4FQuvQKh-VJk1_A/videos)
 * [Carnegie Mellon University Deep Learning](https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA/videos)
