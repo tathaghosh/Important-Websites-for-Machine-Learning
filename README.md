@@ -7,6 +7,8 @@
 * [Robert Tjarko Lange](https://roberttlange.github.io/)
 * [Francis Bach](https://francisbach.com/)
 * [Chris Olah](https://colah.github.io/)
+* [Divam Gupta](https://divamgupta.com/)
+  - [Image Segmentation using Keras](https://divamgupta.com/image-segmentation/2019/06/06/deep-learning-semantic-segmentation-keras.html)
 * [Sabrina J. Mielke](https://sjmielke.com/blog.htm)
 * [Raúl Gómez](https://gombru.github.io/about/)
 * [Guillaume Genthial](https://guillaumegenthial.github.io/)
