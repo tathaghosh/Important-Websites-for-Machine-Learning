@@ -12,6 +12,7 @@
 * [Divam Gupta](https://divamgupta.com/)
   - [Image Segmentation using Keras](https://divamgupta.com/image-segmentation/2019/06/06/deep-learning-semantic-segmentation-keras.html)
 * [Sabrina J. Mielke](https://sjmielke.com/blog.htm)
+  - [From PyTorch to JAX](https://sjmielke.com/jax-purify.htm)
 * [Raúl Gómez](https://gombru.github.io/about/)
 * [Guillaume Genthial](https://guillaumegenthial.github.io/)
 * [Constanza Fierro](https://cfierro94.github.io/)
