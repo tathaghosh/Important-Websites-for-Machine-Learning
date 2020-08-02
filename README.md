@@ -47,6 +47,7 @@
 * [Elvis Saravia](https://www.youtube.com/channel/UCyna_OxOWL7IEuOwb7WhmxQ/videos)
 * [Jeff Heaton](https://www.youtube.com/user/HeatonResearch/videos)
 * [Minsuk Heo 허민석](https://www.youtube.com/user/TheEasyoung/videos)
+* [Krishna D N](https://www.youtube.com/channel/UC0AaMZ3TbGRExfM2Eq-qZ5g/videos)
 * [Aladdin Persson](https://www.youtube.com/c/AladdinPersson/videos)
 * [The A.I. Hacker - Michael Phi](https://www.youtube.com/channel/UCYpBgT4riB-VpsBBBQkblqQ/videos)
 * [Venelin Valkov](https://www.youtube.com/user/VulkovVenelin/videos)
