@@ -6,6 +6,8 @@
 * [Eugene Yan](https://eugeneyan.com/)
   - [NLP for Supervised Learning - A Brief Survey](https://eugeneyan.com/writing/nlp-supervised-learning-survey/)
 * [Amit Chaudhary(Amitness)](https://amitness.com/)
+* [Lena Voita](https://lena-voita.github.io/posts.html)
+  - [NLP Course | For You](https://lena-voita.github.io/nlp_course.html)
 * [Robert Tjarko Lange](https://roberttlange.github.io/)
 * [Francis Bach](https://francisbach.com/)
 * [Chris Olah](https://colah.github.io/)
