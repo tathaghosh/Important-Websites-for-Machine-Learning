@@ -39,6 +39,7 @@
   - [Understanding and Decoding a JPEG Image using Python](https://yasoob.me/posts/understanding-and-writing-jpeg-decoder-in-python/)
 * [Distill](https://distill.pub/)
 * [dair.ai](https://dair.ai/posts/)
+* [Off the Convex Path](http://www.offconvex.org/)
 * [Autonomous Vision Blog](https://autonomousvision.github.io/)
 * [Humboldt-University of Berlin](https://humboldt-wi.github.io/blog/research/)
 
