@@ -45,7 +45,7 @@
 * [The Berkeley Artificial Intelligence Research(BAIR) Blog](https://bair.berkeley.edu/blog/)
 * [Jordi Pons)](http://www.jordipons.me/)
   - [Deep neural networks for music](http://www.jordipons.me/apps/teaching-materials/)
-
+* [Andrew Gibiansky](https://andrew.gibiansky.com/)
 
 
 # YouTube
