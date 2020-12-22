@@ -46,6 +46,7 @@
 * [Jordi Pons)](http://www.jordipons.me/)
   - [Deep neural networks for music](http://www.jordipons.me/apps/teaching-materials/)
 * [Andrew Gibiansky](https://andrew.gibiansky.com/)
+* [Desh Raj](https://desh2608.github.io/blog/)
 
 
 # YouTube
