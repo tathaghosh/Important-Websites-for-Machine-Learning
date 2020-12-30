@@ -48,6 +48,8 @@
 * [Andrew Gibiansky](https://andrew.gibiansky.com/)
 * [Desh Raj](https://desh2608.github.io/blog/)
 * [Frank Dellaert](https://dellaert.github.io/year-archive/)
+* [Loren Lugosch](https://lorenlugosch.github.io/year-archive/)
+
 
 
 # YouTube
