@@ -50,6 +50,8 @@
 * [Frank Dellaert](https://dellaert.github.io/year-archive/)
 * [Loren Lugosch](https://lorenlugosch.github.io/year-archive/)
 * [Maël Fabien](https://maelfabien.github.io/blog/)
+* [Sander Dieleman](https://benanne.github.io/)
+* [Jakub Tomczak](https://jmtomczak.github.io/blog.html)
 
 
 
