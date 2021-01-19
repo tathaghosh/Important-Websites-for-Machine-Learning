@@ -52,6 +52,8 @@
 * [Maël Fabien](https://maelfabien.github.io/blog/)
 * [Sander Dieleman](https://benanne.github.io/)
 * [Jakub Tomczak](https://jmtomczak.github.io/blog.html)
+* [Wessel Bruinsma](https://wesselb.github.io/posts)
+* [Invenia Blog](https://invenia.github.io/blog/postlist/)
 
 
 
