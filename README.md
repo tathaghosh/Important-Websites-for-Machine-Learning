@@ -54,6 +54,10 @@
 * [Jakub Tomczak](https://jmtomczak.github.io/blog.html)
 * [Wessel Bruinsma](https://wesselb.github.io/posts)
 * [Invenia Blog](https://invenia.github.io/blog/postlist/)
+* [Alexia Jolicoeur-Martineau](https://ajolicoeur.wordpress.com/)
+  - [The new contender to GANs](https://ajolicoeur.wordpress.com/the-new-contender-to-gans-score-matching-with-langevin-sampling/)
+  
+
 
 
 
