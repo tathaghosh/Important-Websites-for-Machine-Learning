@@ -103,3 +103,4 @@
 * [Carnegie Mellon University Deep Learning](https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA/videos)
 * [Pascal Poupart](https://www.youtube.com/channel/UC7ZVvEo7-B7lA6LY2MVX72A/videos)
 * [Data Science Courses (Ali Ghodsi-University of Waterloo)](https://www.youtube.com/c/DataScienceCoursesUW/videos)
+* [Paul Hand](https://www.youtube.com/user/paulhand84/videos)
