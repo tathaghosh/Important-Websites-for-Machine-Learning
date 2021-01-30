@@ -60,7 +60,7 @@
   - [Why are machine learning algorithms hard to tune?](https://engraved.ghost.io/why-machine-learning-algorithms-are-hard-to-tune/)
   - [How we can make machine learning algorithms tunable](https://engraved.ghost.io/how-we-can-make-machine-learning-algorithms-tunable/)
 * [Johannes Brandstetter(ML-JKU)](https://www.jku.at/en/institute-for-machine-learning/about-us/team/ass-prof-dr-johannes-brandstetter/)
-  - [RUDDER: Return Decomposition for Delayed Rewards](hhttps://ml-jku.github.io/rudder/)
+  - [RUDDER: Return Decomposition for Delayed Rewards](https://ml-jku.github.io/rudder/)
   - [Hopfield Networks is All You Need](https://ml-jku.github.io/hopfield-layers/)
   - [Align-RUDDER: Learning from Few Demonstrations by Reward Redistribution](https://ml-jku.github.io/align-rudder/)
   - [Cross-Domain Few-Shot Learning by Representation Fusion](https://ml-jku.github.io/chef/)
