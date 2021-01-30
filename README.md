@@ -56,7 +56,7 @@
 * [Invenia Blog](https://invenia.github.io/blog/postlist/)
 * [Alexia Jolicoeur-Martineau](https://ajolicoeur.wordpress.com/)
   - [The new contender to GANs](https://ajolicoeur.wordpress.com/the-new-contender-to-gans-score-matching-with-langevin-sampling/)
-* [Jonas Degrave & Ira Korshunova ](https://engraved.ghost.io/)
+* [Engraved-Jonas Degrave & Ira Korshunova ](https://engraved.ghost.io/)
   - [The new contender to GANs](https://engraved.ghost.io/why-machine-learning-algorithms-are-hard-to-tune/)
   - [The new contender to GANs](https://engraved.ghost.io/how-we-can-make-machine-learning-algorithms-tunable/)
 
