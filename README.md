@@ -65,6 +65,7 @@
   - [Align-RUDDER: Learning from Few Demonstrations by Reward Redistribution](https://ml-jku.github.io/align-rudder/)
   - [Cross-Domain Few-Shot Learning by Representation Fusion](https://ml-jku.github.io/chef/)
   - [Looking at the Performer from a Hopfield point of view](https://ml-jku.github.io/blog-post-performer/)
+* [Generable](https://www.generable.com/blog/)
 
 
 
