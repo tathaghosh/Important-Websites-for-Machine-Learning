@@ -67,6 +67,7 @@
   - [Looking at the Performer from a Hopfield point of view](https://ml-jku.github.io/blog-post-performer/)
 * [Generable](https://www.generable.com/blog/)
 * [HuggingFace Blogs](https://huggingface.co/blog)
+* [GTSAM](https://gtsam.org/blog/)
 
 
 
