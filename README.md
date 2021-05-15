@@ -114,3 +114,4 @@
 * [Ari Seff](https://www.youtube.com/channel/UCIxertsVDip8QHpnhinkAow)
 * [Hung-yi Lee](https://www.youtube.com/c/HungyiLeeNTU/videos)
 * [Shusen Wang](https://www.youtube.com/c/ShusenWangEng/videos)
+* [Machine Learning & Simulation](https://www.youtube.com/channel/UCh0P7KwJhuQ4vrzc3IRuw4Q/videos)
