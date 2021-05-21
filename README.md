@@ -70,6 +70,7 @@
 * [GTSAM](https://gtsam.org/blog/)
 * [Best tea in London (A blog on statistics and machine learning)](https://gblog-ml.github.io/posts/)
 * [Fabian Fuchs](https://fabianfuchsml.github.io/index)
+* [Neural Magic}](https://neuralmagic.com/blog/)
 
 
 
