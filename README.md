@@ -71,6 +71,9 @@
 * [Best tea in London (A blog on statistics and machine learning)](https://gblog-ml.github.io/posts/)
 * [Fabian Fuchs](https://fabianfuchsml.github.io/index)
 * [Neural Magic](https://neuralmagic.com/blog/)
+* [Lilian Weng](https://lilianweng.github.io/lil-log/archive.html)
+  - [Contrastive Representation Learning](https://lilianweng.github.io/lil-log/2021/05/31/contrastive-representation-learning.html)
+  - [Controllable Neural Text Generation](https://lilianweng.github.io/lil-log/2021/01/02/controllable-neural-text-generation.html)
 
 
 
