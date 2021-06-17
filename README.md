@@ -74,7 +74,9 @@
 * [Lilian Weng](https://lilianweng.github.io/lil-log/archive.html)
   - [Contrastive Representation Learning](https://lilianweng.github.io/lil-log/2021/05/31/contrastive-representation-learning.html)
   - [Controllable Neural Text Generation](https://lilianweng.github.io/lil-log/2021/01/02/controllable-neural-text-generation.html)
-
+* [Javier Rodriguez Zaurin (infinitoml)](https://jrzaurin.github.io/infinitoml/)
+  - [pytorch-widedeep, deep learning for tabular data IV: Deep Learning vs LightGBM](https://jrzaurin.github.io/infinitoml/2021/05/28/pytorch-widedeep_iv.html) 
+* [argmax.ai](https://argmax.ai/blog/)  
 
 
   
