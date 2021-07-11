@@ -77,6 +77,7 @@
 * [Javier Rodriguez Zaurin (infinitoml)](https://jrzaurin.github.io/infinitoml/)
   - [pytorch-widedeep, deep learning for tabular data IV: Deep Learning vs LightGBM](https://jrzaurin.github.io/infinitoml/2021/05/28/pytorch-widedeep_iv.html) 
 * [argmax.ai](https://argmax.ai/blog/)  
+* [Jindřich Libovický](https://jlibovicky.github.io/tag/mt-weekly)
 
 
   
