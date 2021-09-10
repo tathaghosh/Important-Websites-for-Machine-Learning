@@ -79,6 +79,8 @@
 * [argmax.ai](https://argmax.ai/blog/)  
 * [Jindřich Libovický](https://jlibovicky.github.io/tag/mt-weekly)
 * [It's Neuronal Blog(Alex Williams)](http://alexhwilliams.info/itsneuronalblog/)
+* [Costa Huang](https://costa.sh/blog.html)
+  - [The 32 Implementation Details of Proximal Policy Optimization (PPO) Algorithm](https://costa.sh/blog-the-32-implementation-details-of-ppo.html)
 
 
   
