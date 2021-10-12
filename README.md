@@ -84,6 +84,7 @@
   - [The 32 Implementation Details of Proximal Policy Optimization (PPO) Algorithm](https://costa.sh/blog-the-32-implementation-details-of-ppo.html)
 * [Yassine Ouali](https://yassouali.github.io/ml-blog/)
   - [CVPR 2021: An Overview](https://yassouali.github.io/ml-blog/cvpr2021/)
+* [Perceiving Systems Blog](https://perceiving-systems.blog/en)
 
 
   
