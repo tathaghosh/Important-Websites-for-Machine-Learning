@@ -86,6 +86,7 @@
   - [CVPR 2021: An Overview](https://yassouali.github.io/ml-blog/cvpr2021/)
 * [Perceiving Systems Blog](https://perceiving-systems.blog/en)
 * [Transformers in Vision (IAML Distill Blog)](https://iaml-it.github.io/posts/2021-04-28-transformers-in-vision/)
+* [Eric Jang](https://evjang.com/)
 
 
   
