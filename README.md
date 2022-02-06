@@ -135,3 +135,4 @@
 * [Machine Learning & Simulation](https://www.youtube.com/channel/UCh0P7KwJhuQ4vrzc3IRuw4Q/videos)
 * [Neural Magic](https://www.youtube.com/channel/UCo8dO_WMGYbWCRnj_Dxr4EA)
 * [ mildlyoverfitted](https://www.youtube.com/c/mildlyoverfitted/videos)
+* [Mutual Information](https://www.youtube.com/c/MutualInformation0/videos)
