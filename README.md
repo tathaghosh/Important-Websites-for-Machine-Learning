@@ -90,6 +90,7 @@
 * [Dan's Blog](https://dansblog.netlify.app)
 * [Ondřej Cífka](https://ondrej.cifka.com/posts/)
 * [Yang Song](https://yang-song.github.io/blog/)
+  - [Generative Modeling by Estimating Gradients of the Data Distribution](https://yang-song.github.io/blog/2021/score/)
 
 
   
