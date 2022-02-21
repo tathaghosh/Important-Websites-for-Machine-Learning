@@ -72,6 +72,7 @@
 * [Fabian Fuchs](https://fabianfuchsml.github.io/index)
 * [Neural Magic](https://neuralmagic.com/blog/)
 * [Lilian Weng](https://lilianweng.github.io/lil-log/archive.html)
+  - [What are Diffusion Models?](https://lilianweng.github.io/lil-log/2021/07/11/diffusion-models.html)
   - [Contrastive Representation Learning](https://lilianweng.github.io/lil-log/2021/05/31/contrastive-representation-learning.html)
   - [Controllable Neural Text Generation](https://lilianweng.github.io/lil-log/2021/01/02/controllable-neural-text-generation.html)
   - [How to Train Really Large Models on Many GPUs?](https://lilianweng.github.io/lil-log/2021/09/24/train-large-neural-networks.html)
