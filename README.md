@@ -92,6 +92,9 @@
 * [Ondřej Cífka](https://ondrej.cifka.com/posts/)
 * [Yang Song](https://yang-song.github.io/blog/)
   - [Generative Modeling by Estimating Gradients of the Data Distribution](https://yang-song.github.io/blog/2021/score/)
+* [Chaitanya K. Joshi](https://www.chaitjo.com/post/)
+  - [Recent Advances in Deep Learning for Routing Problems](https://www.chaitjo.com/post/deep-learning-for-routing-problems/)   
+  - [Recent Advances in Efficient and Scalable Graph Neural Networks](https://www.chaitjo.com/post/efficient-gnns/)
 
 
   
