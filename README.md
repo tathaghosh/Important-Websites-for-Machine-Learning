@@ -95,6 +95,7 @@
 * [Chaitanya K. Joshi](https://www.chaitjo.com/post/)
   - [Recent Advances in Deep Learning for Routing Problems](https://www.chaitjo.com/post/deep-learning-for-routing-problems/)   
   - [Recent Advances in Efficient and Scalable Graph Neural Networks](https://www.chaitjo.com/post/efficient-gnns/)
+* [The blog of Matthijs Hollemans about machine learning and AI](https://machinethink.net/blog/)
 
 
   
