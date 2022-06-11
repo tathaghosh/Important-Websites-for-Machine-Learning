@@ -97,6 +97,7 @@
   - [Recent Advances in Efficient and Scalable Graph Neural Networks](https://www.chaitjo.com/post/efficient-gnns/)
 * [The blog of Matthijs Hollemans about machine learning and AI](https://machinethink.net/blog/)
 * [gradient science](https://gradientscience.org/)
+* [Wu Lin (Yorker Lin)](https://yorkerlin.github.io/year-archive/)
 
 
   
