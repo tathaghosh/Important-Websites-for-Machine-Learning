@@ -98,6 +98,8 @@
 * [The blog of Matthijs Hollemans about machine learning and AI](https://machinethink.net/blog/)
 * [gradient science](https://gradientscience.org/)
 * [Wu Lin (Yorker Lin)](https://yorkerlin.github.io/year-archive/)
+* [Yuge Shi](https://yugeten.github.io/year-archive/)
+  - [An incomplete and slightly outdated literature review on augmentation based self-supervise learning](https://yugeten.github.io/posts/2021/12/ssl/)   
 
 
   
