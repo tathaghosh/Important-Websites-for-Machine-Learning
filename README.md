@@ -99,7 +99,9 @@
 * [gradient science](https://gradientscience.org/)
 * [Wu Lin (Yorker Lin)](https://yorkerlin.github.io/year-archive/)
 * [Yuge Shi](https://yugeten.github.io/year-archive/)
-  - [An incomplete and slightly outdated literature review on augmentation based self-supervise learning](https://yugeten.github.io/posts/2021/12/ssl/)   
+  - [An incomplete and slightly outdated literature review on augmentation based self-supervise learning](https://yugeten.github.io/posts/2021/12/ssl/)
+* [Gwern Branwen](https://www.gwern.net/index)
+  - [The Scaling Hypothesis](https://www.gwern.net/Scaling-hypothesis)
 
 
   
